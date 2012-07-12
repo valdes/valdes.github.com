@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Valdes Blog]]></title>
+  <link href="http://github.com/valdes/atom.xml" rel="self"/>
+  <link href="http://github.com/valdes/"/>
+  <updated>2012-07-11T18:01:51+02:00</updated>
+  <id>http://github.com/valdes/</id>
+  <author>
+    <name><![CDATA[Luis Valdes Guerrero]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[1th post]]></title>
+    <link href="http://github.com/valdes/blog/2012/07/06/1th-post/"/>
+    <updated>2012-07-06T11:38:00+02:00</updated>
+    <id>http://github.com/valdes/blog/2012/07/06/1th-post</id>
+    <content type="html"><![CDATA[<h1>1th post</h1>
+
+<h2>is amazing</h2>
+
+<p>jeje</p>
+]]></content>
+  </entry>
+  
+</feed>
